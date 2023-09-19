@@ -4,6 +4,7 @@ This web app is built using:
 - LangChain
 - Streamlit
 - OpenAI<br>
+
 To use this web app:
 1. Install all the dependencies using requirements.txt
 2. Add your OpenAI API secret key and desired cache directory to the .env file
