@@ -3,7 +3,7 @@ Web app that lets you upload a PDF and query its content by asking questions.<br
 This web app is built using:
 - LangChain
 - Streamlit
-- OpenAI
+- OpenAI<br>
 To use this web app:
 1. Install all the dependencies using requirements.txt
 2. Add your OpenAI API secret key and desired cache directory to the .env file
